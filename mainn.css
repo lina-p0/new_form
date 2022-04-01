@@ -57,3 +57,13 @@ body{
 .niz table{
     border-spacing: 10px;
 }
+
+table{
+    font-family: 'Ubuntu', sans-serif;
+    border-spacing: 5px;
+}
+
+.verh td{
+    padding: 4px;
+}
+
