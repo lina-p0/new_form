@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    background: linear-gradient(189.78deg, #FFBA6C -17.15%, #F58100 56.08%, #FE600F 100.99%) fixed;
+    
+}
+.container-2 img{
+    width: 100vw;
+    height: 25vh;
+    position: relative;
+}
+
+.burger_menu_btn img{
+    position: fixed;
+    top: 10px;
+    left:10px;
+    z-index: 30;
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+    
+}
+
+.container{
+    width: 79vw;
+    height: 65vh;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 30px;
+    margin: auto;
+    position: absolute;
+    margin-left: 10.5vw;
+    top: 22vh;
+    box-sizing: border-box;
+    padding: 16px;
+}
+.verh{
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    width: 70.5vw;
+    height: 18vh;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    padding: 5px;
+    
+}
+
+.niz{
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    width: 70.5vw;
+    height: 38vh;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.niz table{
+    border-spacing: 10px;
+}
